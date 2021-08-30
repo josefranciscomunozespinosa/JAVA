@@ -1,5 +1,14 @@
-### Unit Testing with JUnit
+# Unit Testing with JUnit
 
+### Exercise 1
+
+Run all tests for the [CalculatorTDDTest.java](src/calculator/tdd/CalculatorTDDTest.java)
+
+- Why don't they work?
+- Implement the CalculatorTDD methods so that the test can pass.
+- Run the unit test for the CalculatorTDDTest class again and verify that the tests pass.
+
+### Exercise 2
 
 #### Part 1: Writing Unit Tests
 
